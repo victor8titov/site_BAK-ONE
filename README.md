@@ -7,9 +7,9 @@
 
 ## Стек технологий примененный при разработке шаблона
 
-*   jQuery
-*   Less
-*   ES5
+*   [ECMAScript 5](http://es5.github.io/)
+*   [jQuery](https://jquery-docs.ru/)
+*   [Less](https://less-lang.info/)
 *   [framwork animateScroll](https://github.com/victor8titov/jquery.animateScroll)
 
 
